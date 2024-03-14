@@ -5,4 +5,4 @@ React와 Redux toolkit을 이용하여
 투두리스트를 만들었는데,
 이를 앱으로 간단히 구현하려고 트라이 중
 
-# npx expo start
+# 실행 명령: npx expo start
